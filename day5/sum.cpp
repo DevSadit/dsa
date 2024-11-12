@@ -19,7 +19,6 @@ using namespace std;
 
 // calculate the sum of digits of a number;
 int calDigit (double num){
-
 }
 
 int main()
@@ -28,5 +27,5 @@ int main()
     // int sum = sumOfNumbers(n);
     // cout << sum;
 
-    cout<< calDigit(486)
+    // cout<< calDigit(486)
 }
